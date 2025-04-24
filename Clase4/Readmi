@@ -1,0 +1,23 @@
+######Teoría de Visibilidad:
+
+vamos a utilizar para dar acceso a las propiedades y los métodos de una clase.
+
+Public: un método o una propiedad puede ser accedida desde cualquier clase.
+
+Private: Solamente las propiedades o métodos se puede ver o acceder desde la misma clase
+
+Protected: Solo se puede acceder a los métodos o propiedades desde la misma clase o clases heredadas
+
+#####Cuatro pilares de la POO:
+
+1) Encapsulamiento: es la característica de un lenguaje de POO que permite que todo lo referente
+a un objeto quede aislado dentro de éste.
+
+2) Abtracción: representa las características de la entidad hacia el mundo exterior pero
+ocultando la complejidad.
+
+3) Herencia: es la capacidad que tiene una clase de heredar propiedades y métodos de una clase
+padre.
+
+4) Polimorfismo: se refiere al hecho que varios objetos de diferentes clases, pero con base comun
+se puedan usar de manera indistinta.
